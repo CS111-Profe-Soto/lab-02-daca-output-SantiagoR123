@@ -1,6 +1,6 @@
 /**
  * Program description.
- * @author Your Name
+ * @Santiago Rosas
  */
 public class Main
 {
